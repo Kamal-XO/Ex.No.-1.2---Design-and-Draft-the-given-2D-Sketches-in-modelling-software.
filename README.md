@@ -37,7 +37,7 @@
 
  ## OUTPUT
  
- ![output](./Exercise 1.2.jpg)
+ ![OUTPUT](./Exercise 1.2.jpg)
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
